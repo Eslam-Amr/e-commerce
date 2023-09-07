@@ -1,0 +1,16 @@
+.Home{
+    height: 80vh;
+    overflow: hidden;
+    width: 100%;
+}
+.mainHome{
+    background-image: url(./imge/imgex.jpg);
+    background-size: contain;
+    background-repeat: no-repeat ;
+    height: 100%;
+}
+.pp{
+    left: 50%;
+    top: 71%;
+    transform: translate(-50%);
+}
